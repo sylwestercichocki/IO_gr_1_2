@@ -1,12 +1,12 @@
 Elementy zastosowane w kodzie:
 
 Biblioteka swing oraz HashMap na podstawie:
-•	B. Eckel, Thinking in Java, Prentice Hall
+•	B. Eckel, Thinking in Java. Edycja polska. Wydanie IV. ISBN: 978-83-246-3176-6
 •	Dokumentacja javy: https://docs.oracle.com/javase/7/docs/api/
 
 Architektura MVC na podstawie:
-•	Gamma E., Helm R., Johnson R., Vlissides J.: Wzorce projektowe. Elementy programowania obiektowego wielokrotnego użytku, WNT 2005, s.: 18-20.
+•	Gamma E., Helm R., Johnson R., Vlissides J.: Wzorce projektowe. Elementy programowania obiektowego wielokrotnego użytku, WNT 2005, ISBN: 978-83-246-2662-5, s.: 18-20.
 •	Eckstein R. (March 2007). Java SE Application Design With MVC. Dostępne: http://www.oracle.com/technetwork/articles/javase/index-142890.html
 
 Wzorzec projektowy Singleton na podstawie:
-•	Gamma E., Helm R., Johnson R., Vlissides J.: Wzorce projektowe. Elementy programowania obiektowego wielokrotnego użytku, WNT 2005, s.: 130-136.
+•	Gamma E., Helm R., Johnson R., Vlissides J.: Wzorce projektowe. Elementy programowania obiektowego wielokrotnego użytku, WNT 2005,, ISBN: 978-83-246-2662-5, s.: 130-136.
